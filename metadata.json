@@ -1,0 +1,6 @@
+{
+  "name": "Persian TTS Studio - آوا نگار فارسی",
+  "description": "استودیوی پیشرفته تبدیل متن به گفتار فارسی با صداهای طبیعی هوش مصنوعی و امکان ذخیره و پخش آفلاین فایل‌های صوتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
